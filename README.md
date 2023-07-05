@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy, fellow code wrangler!! JEET GOR here</h1>
+<h1 align="center"> JEET GOR here</h1>
 <h3 align="center">Imagination is limit</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgNIgZwf3Ff-EGi4vv25UkZs-wdWgHZ2iqLJVWtRLU-QTLOEjTZDqw9E4bEwqTxmlZIs&usqp=CAU">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jeetgor3j" target="blank"><img src="https://img.shields.io/twitter/follow/jeetgor3j?logo=twitter&style=for-the-badge" alt="jeetgor3j" /></a> </p>
 
-- 🔭 I’m currently working on **TIC_TAC_TOE**
+- 🔭 I’m currently working on **MINI PROJECTS**
 
 - 🌱 I’m currently learning **JAVA , DSA , PYTHON**
 
