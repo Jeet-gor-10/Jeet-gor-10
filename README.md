@@ -1,4 +1,4 @@
-<h1 align="center"> JEET GOR here</h1>
+<h1 align="center"> JEET GOR </h1>
 <h3 align="center">Imagination is limit</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgNIgZwf3Ff-EGi4vv25UkZs-wdWgHZ2iqLJVWtRLU-QTLOEjTZDqw9E4bEwqTxmlZIs&usqp=CAU">
